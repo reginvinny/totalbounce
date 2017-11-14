@@ -1,4 +1,11 @@
 #---TotalBounce Install File---#
+echo ' '
+echo '#######################################'
+echo '#           Total Bounce!             #'
+echo '#        Author: Regin Vinny          #'
+echo '#######################################'
+echo ''
+sleep 1
 cd ~
 git clone https://github.com/reginvinny/totalbounce.git
 cd totalbounce
