@@ -17,7 +17,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/reginvinny/totalbounce/mas
 ```
 ## TotalBounce usage
 
-- Enter 'totalbounce' command to bounce WiFi network & Netwwork Client
+- Enter 'totalbounce' command to bounce WiFi network & Network Client
 - Enter 'wifibump' command to bounce WiFi network alone
 - Enter 'ncreset' command to bounce Network Connect app alone
 - Enter 'nckill' command to kill Network Connect app

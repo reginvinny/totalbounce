@@ -34,8 +34,10 @@ echo " "
 
 echo  TotalBounce usage
 echo " "
-echo - Checkout feature branch
-echo - Enter \'totalbounce\' command to sync with master
+echo - Enter \'totalbounce\' command to bounce WiFi network & Network Client
+echo - Enter \'wifibump\' command to bounce WiFi network alone
+echo - Enter \'ncreset\' command to bounce Network Connect app alone
+echo - Enter \'nckill\' command to kill Network Connect app
 echo " "
 echo " "
 echo  TotalBounce Uninstallation steps
