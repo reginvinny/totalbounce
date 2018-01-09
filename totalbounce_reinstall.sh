@@ -10,7 +10,5 @@ echo " "
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/reginvinny/totalbounce/master/install.sh)"
 echo " "
 echo " "
-echo "---------------TotalBounce Reinstall Complete---------------"
-echo " "
-echo " "
+
 
