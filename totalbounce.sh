@@ -9,7 +9,7 @@ clear
 cat ~/totalbounce/help
 exit 1
 else 
-eval ${wifibump} && sleep 5 && eval ${ncreset}
+eval ${wifibump} && sleep 10 && eval ${ncreset}
 fi
 #----------------------------------------------
 
