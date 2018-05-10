@@ -7,7 +7,7 @@ A utility to bounce Wifi and Network Connect client incase of connectivity issue
 - You should be inside a git repo branch on your local machine 
 
 ## OS
-Mac OS High Sierra (tested).
+Mac OS High Sierra (tested)
 
 ## TotalBounce installation steps
 
